@@ -44,7 +44,7 @@ Integrating the outcome of the decision tree from the preceding approach, an ins
 
 ![A graph with blue bars
 
-Description automatically generated](Aspose.Words.53c8744f-39a6-41c0-b295-e547567a40f5.001.png)
+![alt text](Aspose.Words.53c8744f-39a6-41c0-b295-e547567a40f5.001.png)
 
 1. Utilization of Feature Value Range Analysis
 
@@ -52,13 +52,13 @@ Leveraging the "features\_value\_range.pptx" PowerPoint file and, insights into 
 
 ![A graph with blue lines
 
-Description automatically generated](Aspose.Words.53c8744f-39a6-41c0-b295-e547567a40f5.002.png)
+![alt text](Aspose.Words.53c8744f-39a6-41c0-b295-e547567a40f5.002.png)
 
 1. Utilizing the "txt2jpg\_visualize.py" script to gain insights into the data and facilitate the process of feature selection.
 
 ![A screenshot of a graph
 
-Description automatically generated](Aspose.Words.53c8744f-39a6-41c0-b295-e547567a40f5.003.png)
+![alt text](Aspose.Words.53c8744f-39a6-41c0-b295-e547567a40f5.003.png)
 
 This image from transition folder, Tile6
 
@@ -68,7 +68,7 @@ To facilitate feature selection for image channels, a selection of images is con
 
 ![A screenshot of a graph
 
-Description automatically generated](Aspose.Words.53c8744f-39a6-41c0-b295-e547567a40f5.004.png)
+![alt text](Aspose.Words.53c8744f-39a6-41c0-b295-e547567a40f5.004.png)
 
 Step 3: Generation of Multi-Channel Images and Classification
 
